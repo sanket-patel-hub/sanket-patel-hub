@@ -38,7 +38,6 @@
 <a href="https://www.instagram.com/psanket64/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="psanket64" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/patel_sanket30" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Hackerrank_meaningful_logo.svg" alt="patel_sanket30" height="30" width="40" /></a>
 </p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://www.liferay.com/?utm_source=vectorlogozone&utm_medium=referrer" target="_blank" rel="noreferrer"> 
@@ -103,13 +102,15 @@
 	<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
 </a>
 </p>
-
-<h3 align="right"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanket-patel-hub&show_icons=true&locale=en&layout=compact" alt="sanket-patel-hub" />
-<h3 align="left"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sanket-patel-hub&show_icons=true&locale=en" alt="sanket-patel-hub" /></h3>
-	
-<h3 align="left">Support:</h3>
 <h3 align="left">
-<a href="https://www.buymeacoffee.com/patelsankeg">
-	<img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="patelsankeg">
-</a>
+	<p>Support:</p>
+	<a href="https://www.buymeacoffee.com/patelsankeg">
+		<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="patelsankeg">
+	</a>
+</h3>
+<h3 align="left">
+	<img align="left" width="450" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanket-patel-hub&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="sanket-patel-hub" />
+</h3>
+<h3 align="center">
+	<img align="left" src="https://github-readme-stats.vercel.app/api?username=sanket-patel-hub&show_icons=true&locale=en&theme=github_dark" alt="sanket-patel-hub" />
 </h3>
