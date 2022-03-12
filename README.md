@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Sanket Patel</h1>
-<h3 align="center">I am passionate about bits and bytes of computer that led me to be senior software engineer with extensive experience in software industry.</h3><h4 align="center"> let me help you crunch quick introduction about me :bearded_person:</h4>
+<h3 align="center">I am passionate about bits and bytes of computer that helped me to have extensive experience in software industry.</h3><h4 align="center"> let me help you crunch quick introduction about me :bearded_person:</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanket-patel-hub&label=Profile%20views&color=0e75b6&style=flat" alt="sanket-patel-hub" /> </p>
 
