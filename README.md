@@ -7,16 +7,16 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy/issues">
-    <img src="https://img.shields.io/github/issues/sanket-patel-hub/learning"/> 
+    <img src="https://img.shields.io/github/issues/sanket-patel-hub/prototypes"/> 
   </a>
   <a href="https://github.com/ryo-ma/github-profile-trophy/network/members">
-    <img src="https://img.shields.io/github/forks/sanket-patel-hub/learning"/> 
+    <img src="https://img.shields.io/github/forks/sanket-patel-hub/prototypes"/> 
   </a>  
   <a href="https://github.com/ryo-ma/github-profile-trophy/stargazers">
-    <img src="https://img.shields.io/github/stars/sanket-patel-hub/learning"/> 
+    <img src="https://img.shields.io/github/stars/sanket-patel-hub/prototypes"/> 
   </a>
     <a href="https://github.com/ryo-ma/github-profile-trophy/LICENSE">
-    <img src="https://img.shields.io/github/license/sanket-patel-hub/learning"/> 
+    <img src="https://img.shields.io/github/license/sanket-patel-hub/prototypes"/> 
   </a>
 </p>
 
@@ -109,8 +109,8 @@
 	</a>
 </h3>
 <h3 align="left">
-	<img align="left" width="450" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanket-patel-hub&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="sanket-patel-hub" />
+	<img align="left" width="450" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanket-patel-hub&show_icons=true&locale=en&layout=compact&theme=github_dark&count_private=true" alt="sanket-patel-hub" />
 </h3>
 <h3 align="center">
-	<img align="left" src="https://github-readme-stats.vercel.app/api?username=sanket-patel-hub&show_icons=true&locale=en&theme=github_dark" alt="sanket-patel-hub" />
+	<img align="left" src="https://github-readme-stats.vercel.app/api?username=sanket-patel-hub&show_icons=true&locale=en&theme=github_dark&count_private=true" alt="sanket-patel-hub" />
 </h3>
